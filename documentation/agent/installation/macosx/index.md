@@ -88,4 +88,5 @@ To start the service:
 
 To force an inventory:
 
-    $ sudo /opt/fusioninventory-agent/fusioninventory-agent
+    $ sudo /opt/fusioninventory-agent/bin/fusioninventory-agent
+    or $ sudo /opt/fusioninventory-agent/run.sh &
